@@ -421,17 +421,23 @@ section {
             width: 60%;
           }
           // all the language progress values
-          .html {
-            width: 70%;
+          .javascript {
+            width: 60%;
           }
           .clang {
             width: 80%;
           }
           .python {
-            width: 90%;
+            width: 80%;
           }
           .dart {
+            width: 70%;
+          }
+          .bash {
             width: 80%;
+          }
+          .sql {
+            width: 75%;
           }
         }
       }

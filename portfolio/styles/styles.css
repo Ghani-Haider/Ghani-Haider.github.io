@@ -553,8 +553,8 @@ section {
   width: 60%;
 }
 
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 70%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
+  width: 60%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .clang {
@@ -562,11 +562,19 @@ section {
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 90%;
+  width: 80%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .dart {
+  width: 70%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .bash {
   width: 80%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 75%;
 }
 
 .stat-title {
